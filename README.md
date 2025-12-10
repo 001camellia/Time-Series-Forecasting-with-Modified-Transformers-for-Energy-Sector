@@ -1,4 +1,4 @@
-# 🎯 Large Model Energy Time Series Forecasting: Time Series Forecasting with Modified Transformers for Energy Sector
+# 🎯 Large Model  Time Series Forecasting: Time Series Forecasting with Modified Transformers for Energy Sector
 
 ## 📊 Project Overview
 This project focuses on time series forecasting tasks in the energy industry, targeting key scenarios such as wind and solar power generation forecasting, energy trading, grid load forecasting, and charging demand prediction. By improving Transformer architectures, the project aims to achieve high-precision predictions under conditions of data scarcity and varying quality. Based on innovative enhancements to iTransformer, PatchTST, and Pathformer models, it addresses core challenges in energy industry forecasting tasks, including limited data volume and inconsistent data quality.
