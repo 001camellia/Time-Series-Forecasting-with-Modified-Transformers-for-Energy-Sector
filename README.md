@@ -23,7 +23,7 @@ This project focuses on time series forecasting tasks in the energy industry, ta
 - **Transfer Learning**: Enable cross-scenario knowledge transfer to accelerate model deployment in new scenarios
 
 ## 🧬 Model Architecture Design
-### 1. Baseline Model References
+###  Baseline Model References
 - **iTransformer**: Inverted Transformer structure that considers feature information across each dimension within a patch
 - **PatchTST**: Patch-based Time Series Transformer
 - **Pathformer**: Dynamically allocates patch lengths based on input characteristics
