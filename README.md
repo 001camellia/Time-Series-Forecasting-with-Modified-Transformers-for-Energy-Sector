@@ -27,3 +27,13 @@ This project focuses on time series forecasting tasks in the energy industry, ta
 - **iTransformer**: Inverted Transformer structure that considers feature information across each dimension within a patch
 - **PatchTST**: Patch-based Time Series Transformer
 - **Pathformer**: Dynamically allocates patch lengths based on input characteristics
+## 📚 Dataset Download
+The dataset can be downloaded from:
+[Google Drive Link](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy)
+# 🚀 Quick Start Guide
+
+## Data Preparation
+First, download the dataset from the provided link and unzip the script files. After unzipping, enter the `multivariate_forecasting` directory.
+
+## Environment Configuration and Execution
+Before running the experiments, you need to update the data file storage path in the configuration file to point to the correct location of your locally stored dataset. Once the path configuration is complete, you can run the corresponding shell script files (e.g., `.sh` files for different energy forecasting tasks) based on your task requirements to start model training and evaluation.
